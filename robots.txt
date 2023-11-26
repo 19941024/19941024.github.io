@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /readme.html
+Disallow: /refer/
+Sitemap: https://theme35.mywebzi.ir/site-map.xml
